@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @jaysonacosta
 ```javascript
-const Hello = () => {
+const Greet = () => {
   return <h1>Welcome!</h1>;
 }
 
-<Hello />
+export default Greet;
 ```
 
 <!---
